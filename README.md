@@ -19,19 +19,19 @@ Siga os passos abaixo para executar o projeto na sua máquina local:
 
 1. **Clone o repositório**:
   ```bash
-  git clone https://github.com/seu-usuario/nome-do-repositorio.git
+  git clone https://github.com/joaomacaoli/teste-logica-targetsistemas.git
   ```
 
 2. **Navegue até o diretório do projeto:**
   ```bash
-  cd nome-do-repositorio
+  cd teste-logica-targetsistemas
   ```
 
 3. **Instale as dependências (se houver):**
   ```bash
   npm install
   ```
-
+nome-do-repositorio
 4. Execute o projeto:
   ```bash
   npm run start
