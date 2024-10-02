@@ -34,7 +34,7 @@ Siga os passos abaixo para executar o projeto na sua máquina local:
 
 4. Execute o projeto:
   ```bash
-  node index.js
+  npm run start
   ```
 
 O arquivo index.js ou outro arquivo principal conterá a execução das soluções para as questões do teste.
